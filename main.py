@@ -107,3 +107,4 @@ class ThaiLangApp(App):
 
 if __name__ == '__main__':
     ThaiLangApp().run()
+1
